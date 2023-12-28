@@ -1,5 +1,5 @@
-# Name: MUKESH.R
-# Register Number: 23006020
+# Name: Subash.R
+# Register Number: 23003821
 # Exp 6 Synchornous counters  up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:   PC, Cyclone II , USB flasher
